@@ -1,4 +1,4 @@
-from random import choice
+from random import choice 
 from time import sleep
 
 one = " _ _ _ _   _                             \n" \
