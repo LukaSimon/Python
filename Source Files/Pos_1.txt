@@ -1,10 +1,10 @@
-Lewis
 Max
+Lewis
 Valtteri
-Lando
 Sergio
-Carlos
+Lando
 Charles
+Carlos
 Daniel
 Pierre
 Fernando
@@ -13,8 +13,8 @@ Sebastian
 Lance
 Yuki
 George
-Nicholas
 Kimi
+Nicholas
 Antonio
 Mick
 Robert
