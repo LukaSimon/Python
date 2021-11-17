@@ -64,7 +64,7 @@ f = open("../Source Files/Pts.txt", 'w+')
 f.truncate()
 f.write(b)
 f.close()
-del_line("../Source Files/Pts.txt")
+del_line("../Source Files/Pts.txt") 
 
 Team = open("../Source Files/Teams.txt", 'r')
 Points = open("../Source Files/Pts.txt", 'r')
