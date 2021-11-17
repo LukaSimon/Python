@@ -1,0 +1,2 @@
+Pausiert
+Abgebrochen
