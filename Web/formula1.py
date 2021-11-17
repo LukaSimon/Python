@@ -43,7 +43,7 @@ driver_1 = soup.find_all('span', class_="hide-for-tablet")
 a_1 = str(cut(driver_1))
 
 driver_2 = soup.find_all('span', class_="hide-for-mobile")
-a_2 = str(cut(driver_2))
+a_2 = str(cut(driver_2)) 
 
 points = soup.find_all('td', class_="dark bold")
 b = str(points)
